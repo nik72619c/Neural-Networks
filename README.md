@@ -1,1 +1,1 @@
-# Learning something
+# Learning neural networks through js
